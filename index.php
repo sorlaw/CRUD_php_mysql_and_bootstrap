@@ -26,6 +26,7 @@
                     <th scope="col">NISN</th>
                     <th scope="col">NAMA LENGKAP</th>
                     <th scope="col">ALAMAT</th>
+                   
                     <th scope="col">AKSI</th>
                   </tr>
                 </thead>
